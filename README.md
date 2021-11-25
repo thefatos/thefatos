@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi im thefatos, i am a 14 year old dummy that likes tech and things that have power in them. Im a boy, why do i have a github profile lmfao
 
 <!--
 **thefatos/thefatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
