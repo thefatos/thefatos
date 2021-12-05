@@ -1,4 +1,7 @@
-### Hi im thefatos, i am a 14 year old dummy that likes tech and things that have power in them. Im a boy, why do i have a github profile lmfao
+### Hi!
+I'm TheFatos, I'm a dumbass that made a github account.
+I'm 14, and my pronouns are he/him
+
 
 <!--
 **thefatos/thefatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
