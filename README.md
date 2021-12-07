@@ -1,7 +1,5 @@
 ### Hi!
-I'm TheFatos, I'm a dumbass that made a github account.
-I'm 14, and my pronouns are he/him
-
+Hi! You may know me as thefatos! I'm a dumb person that likes messing with tech
 
 <!--
 **thefatos/thefatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
